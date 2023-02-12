@@ -1,0 +1,1 @@
+{"relation": ["Cause-Effect", "Component-Whole", "Content-Container", "Entity-Destination", "Entity-Origin", "Instrument-Agency", "Member-Collection", "Message-Topic", "Other", "Product-Producer"]}
